@@ -16,4 +16,4 @@ itertools   = "0.4"
 rustc-serialize = "*"
 
 [dependencies.gmagick]
-path = "../rust-gmagick"
+git = "https://github.com/kardeiz/rust-gmagick.git"
